@@ -47,7 +47,7 @@ const httpService = {
         status: 400,
         data: {},
         exception: {
-          detail: "some thing wrong",
+          detail: "something went wrong",
         },
         message: "",
       };
@@ -86,7 +86,7 @@ const httpService = {
         status: 400,
         data: {},
         exception: {
-          detail: "some thing wrong",
+          detail: "something went wrong",
         },
         message: "",
       };
@@ -123,7 +123,7 @@ const httpService = {
         status: 400,
         data: {},
         exception: {
-          detail: "some thing wrong",
+          detail: "something went wrong",
         },
         message: "",
       };
@@ -159,7 +159,7 @@ const httpService = {
         status: 400,
         data: {},
         exception: {
-          detail: "some thing wrong",
+          detail: "something went wrong",
         },
         message: "",
       };
