@@ -112,7 +112,7 @@ export default function TodoItem({ valueSearch }: { valueSearch: string }) {
                     icon={<DeleteOutlined />}
                     onClick={onClickDeleteHandler}
                   />
-                  {console.log(item.id)}
+
                   <Button
                     className="btn-edit"
                     icon={<EditOutlined />}
