@@ -1,0 +1,39 @@
+.wrapper-btn-2AslW {
+  margin: 10px;
+
+  button {
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    cursor: pointer;
+    height: 30px;
+    min-width: 60px;
+    padding: 0 15px;
+    background-color: transparent;
+    color: inherit;
+  }
+  &.btn-delete {
+    background-color: red;
+    color: white;
+  }
+  &.btn-add {
+    background-color: #28a745;
+    color: white;
+  }
+  &.btn-edit {
+    background-color: orange;
+    color: white;
+  }
+  &.btn-finished {
+    background-color: rgb(139, 112, 202);
+    color: white;
+  }
+  &.btn-sort {
+    display: flex;
+    justify-content: flex-end;
+    button {
+      background-color: rgb(42, 159, 163);
+      color: white;
+    }
+  }
+}

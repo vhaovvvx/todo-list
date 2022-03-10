@@ -1,0 +1,30 @@
+.wrapper-todo-form-LawuzE1 {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  height: 100vh;
+  background-color: #eddada;
+  padding: 0 15px;
+  h3 {
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .todo-form__content {
+    width: 100%;
+    display: flex;
+    // justify-content: space-between;
+    &--btn {
+      display: flex;
+    }
+    & .btn-add {
+      margin-top: 0;
+    }
+  }
+  input {
+    width: 50%;
+    outline: none;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 15px;
+  }
+}
