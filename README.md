@@ -11,7 +11,7 @@ In the project directory, you can run:
 Make sure you have NodeJS installed.
 
 ```
-cd front-end && npm i && npm start
+cd todo-list && npm i && npm start
 ```
 
 ### `npm start`
